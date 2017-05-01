@@ -1,0 +1,17 @@
+E:\Documents\School Work\College\Term 4\PROG37721 Web Services Using .NET & C# Programming\Team Project\Inventory System\bin\Debug\Inventory System.exe.config
+E:\Documents\School Work\College\Term 4\PROG37721 Web Services Using .NET & C# Programming\Team Project\Inventory System\bin\Debug\Inventory System.exe
+E:\Documents\School Work\College\Term 4\PROG37721 Web Services Using .NET & C# Programming\Team Project\Inventory System\bin\Debug\Inventory System.pdb
+E:\Documents\School Work\College\Term 4\PROG37721 Web Services Using .NET & C# Programming\Team Project\Inventory System\obj\Debug\Inventory_System.LoginWindow.resources
+E:\Documents\School Work\College\Term 4\PROG37721 Web Services Using .NET & C# Programming\Team Project\Inventory System\obj\Debug\Inventory_System.Properties.Resources.resources
+E:\Documents\School Work\College\Term 4\PROG37721 Web Services Using .NET & C# Programming\Team Project\Inventory System\obj\Debug\Inventory System.csproj.GenerateResource.Cache
+E:\Documents\School Work\College\Term 4\PROG37721 Web Services Using .NET & C# Programming\Team Project\Inventory System\obj\Debug\Inventory System.exe
+E:\Documents\School Work\College\Term 4\PROG37721 Web Services Using .NET & C# Programming\Team Project\Inventory System\obj\Debug\Inventory System.pdb
+E:\Documents\School Work\College\Term 4\PROG37721 Web Services Using .NET & C# Programming\Team Project\Inventory System\obj\Debug\Inventory_System.ProductsWindow.resources
+E:\Documents\School Work\College\Term 4\PROG37721 Web Services Using .NET & C# Programming\Team Project\Inventory System\obj\Debug\Inventory System.csprojResolveAssemblyReference.cache
+E:\Documents\School Work\College\Term 4\PROG37721 Web Services Using .NET & C# Programming\Team Project\Inventory System\obj\Debug\Inventory_System.ProductThumbnail.resources
+E:\Documents\School Work\College\Term 4\PROG37721 Web Services Using .NET & C# Programming\Team Project\Inventory System\obj\Debug\Inventory_System.ProductStatistics.resources
+E:\Documents\School Work\College\Term 4\PROG37721 Web Services Using .NET & C# Programming\Team Project\Inventory System\obj\Debug\Inventory_System.DetailsWindow.resources
+E:\Documents\School Work\College\Term 4\PROG37721 Web Services Using .NET & C# Programming\Team Project\Inventory System\obj\Debug\Inventory_System.StatisticsWindow.resources
+E:\Documents\School Work\College\Term 4\PROG37721 Web Services Using .NET & C# Programming\Team Project\Inventory System\obj\Debug\Inventory_System.PurchaseWindow.resources
+E:\Documents\School Work\College\Term 4\PROG37721 Web Services Using .NET & C# Programming\Team Project\Inventory System\obj\Debug\Inventory_System.RateWindow.resources
+E:\Documents\School Work\College\Term 4\PROG37721 Web Services Using .NET & C# Programming\Team Project\Inventory System\obj\Debug\Inventory_System.OrderStockWindow.resources
